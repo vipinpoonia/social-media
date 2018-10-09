@@ -1,0 +1,9 @@
+import logging
+
+APP_NAME = 'demoapp'
+LOGGER_NAME = APP_NAME
+DEBUG = True
+TESTING = False
+LOGGING_LEVEL = logging.INFO
+HOST_SERVER_URL = '127.0.0.1'
+HOST_SERVER_PORT = 5001
